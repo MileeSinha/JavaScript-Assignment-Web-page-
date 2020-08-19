@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: rgb(229, 248, 211);
+  height: auto;
+  background: linear-gradient(
+    to bottom,
+    rgb(238, 137, 137),
+    rgb(238, 233, 233)
+  );
+  font-family: cursive;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+img {
+  height: 50vh;
+  width: 100%;
+}
+
+h3 {
+  color: black;
+}
